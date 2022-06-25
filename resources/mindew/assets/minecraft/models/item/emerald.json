@@ -1,0 +1,1496 @@
+{
+    "overrides": [
+        {
+            "model": "mineral/emerald",
+            "predicate": {
+                "custom_model_data": 1001
+            }
+        },
+        {
+            "model": "mineral/jade",
+            "predicate": {
+                "custom_model_data": 1002
+            }
+        },
+        {
+            "model": "mineral/geode",
+            "predicate": {
+                "custom_model_data": 1003
+            }
+        },
+        {
+            "model": "mineral/nekoite",
+            "predicate": {
+                "custom_model_data": 1004
+            }
+        },
+        {
+            "model": "mineral/lunarite",
+            "predicate": {
+                "custom_model_data": 1005
+            }
+        },
+        {
+            "model": "mineral/ghost_crystal",
+            "predicate": {
+                "custom_model_data": 1006
+            }
+        },
+        {
+            "model": "mineral/jasper",
+            "predicate": {
+                "custom_model_data": 1007
+            }
+        },
+        {
+            "model": "mineral/sandstone",
+            "predicate": {
+                "custom_model_data": 1008
+            }
+        },
+        {
+            "model": "mineral/helvite",
+            "predicate": {
+                "custom_model_data": 1009
+            }
+        },
+        {
+            "model": "mineral/obsidian",
+            "predicate": {
+                "custom_model_data": 1010
+            }
+        },
+        {
+            "model": "mineral/pyrite",
+            "predicate": {
+                "custom_model_data": 1011
+            }
+        },
+        {
+            "model": "mineral/baryte",
+            "predicate": {
+                "custom_model_data": 1012
+            }
+        },
+        {
+            "model": "mineral/ruby",
+            "predicate": {
+                "custom_model_data": 1013
+            }
+        },
+        {
+            "model": "mineral/aerinite",
+            "predicate": {
+                "custom_model_data": 1014
+            }
+        },
+        {
+            "model": "mineral/frozen_geode",
+            "predicate": {
+                "custom_model_data": 1015
+            }
+        },
+        {
+            "model": "mineral/earth_crystal",
+            "predicate": {
+                "custom_model_data": 1016
+            }
+        },
+        {
+            "model": "mineral/dolomite",
+            "predicate": {
+                "custom_model_data": 1017
+            }
+        },
+        {
+            "model": "mineral/soapstone",
+            "predicate": {
+                "custom_model_data": 1018
+            }
+        },
+        {
+            "model": "mineral/opal",
+            "predicate": {
+                "custom_model_data": 1019
+            }
+        },
+        {
+            "model": "mineral/alamite",
+            "predicate": {
+                "custom_model_data": 1020
+            }
+        },
+        {
+            "model": "mineral/esperite",
+            "predicate": {
+                "custom_model_data": 1021
+            }
+        },
+        {
+            "model": "mineral/calcite",
+            "predicate": {
+                "custom_model_data": 1022
+            }
+        },
+        {
+            "model": "mineral/fire_opal",
+            "predicate": {
+                "custom_model_data": 1023
+            }
+        },
+        {
+            "model": "mineral/celestine",
+            "predicate": {
+                "custom_model_data": 1024
+            }
+        },
+        {
+            "model": "mineral/jamborite",
+            "predicate": {
+                "custom_model_data": 1025
+            }
+        },
+        {
+            "model": "mineral/orpiment",
+            "predicate": {
+                "custom_model_data": 1026
+            }
+        },
+        {
+            "model": "mineral/fluorapatite",
+            "predicate": {
+                "custom_model_data": 1027
+            }
+        },
+        {
+            "model": "mineral/fire_quartz",
+            "predicate": {
+                "custom_model_data": 1028
+            }
+        },
+        {
+            "model": "mineral/tigerseye",
+            "predicate": {
+                "custom_model_data": 1029
+            }
+        },
+        {
+            "model": "mineral/aquamarine",
+            "predicate": {
+                "custom_model_data": 1030
+            }
+        },
+        {
+            "model": "mineral/slate",
+            "predicate": {
+                "custom_model_data": 1031
+            }
+        },
+        {
+            "model": "mineral/hematite",
+            "predicate": {
+                "custom_model_data": 1032
+            }
+        },
+        {
+            "model": "mineral/jagoite",
+            "predicate": {
+                "custom_model_data": 1033
+            }
+        },
+        {
+            "model": "mineral/topaz",
+            "predicate": {
+                "custom_model_data": 1034
+            }
+        },
+        {
+            "model": "mineral/frozen_tear",
+            "predicate": {
+                "custom_model_data": 1035
+            }
+        },
+        {
+            "model": "mineral/fairy_stone",
+            "predicate": {
+                "custom_model_data": 1036
+            }
+        },
+        {
+            "model": "mineral/thunder_egg",
+            "predicate": {
+                "custom_model_data": 1037
+            }
+        },
+        {
+            "model": "mineral/malachite",
+            "predicate": {
+                "custom_model_data": 1038
+            }
+        },
+        {
+            "model": "mineral/kyanite",
+            "predicate": {
+                "custom_model_data": 1039
+            }
+        },
+        {
+            "model": "mineral/ocean_stone",
+            "predicate": {
+                "custom_model_data": 1040
+            }
+        },
+        {
+            "model": "mineral/mudstone",
+            "predicate": {
+                "custom_model_data": 1041
+            }
+        },
+        {
+            "model": "mineral/diamond",
+            "predicate": {
+                "custom_model_data": 1042
+            }
+        },
+        {
+            "model": "mineral/quartz",
+            "predicate": {
+                "custom_model_data": 1043
+            }
+        },
+        {
+            "model": "mineral/neptunite",
+            "predicate": {
+                "custom_model_data": 1044
+            }
+        },
+        {
+            "model": "mineral/bixite",
+            "predicate": {
+                "custom_model_data": 1045
+            }
+        },
+        {
+            "model": "mineral/star_shards",
+            "predicate": {
+                "custom_model_data": 1046
+            }
+        },
+        {
+            "model": "mineral/geminite",
+            "predicate": {
+                "custom_model_data": 1047
+            }
+        },
+        {
+            "model": "mineral/marble",
+            "predicate": {
+                "custom_model_data": 1048
+            }
+        },
+        {
+            "model": "mineral/prismatic_shard",
+            "predicate": {
+                "custom_model_data": 1049
+            }
+        },
+        {
+            "model": "mineral/amethyst",
+            "predicate": {
+                "custom_model_data": 1050
+            }
+        },
+        {
+            "model": "mineral/basalt",
+            "predicate": {
+                "custom_model_data": 1051
+            }
+        },
+        {
+            "model": "mineral/magma_geode",
+            "predicate": {
+                "custom_model_data": 1052
+            }
+        },
+        {
+            "model": "mineral/petrified_slime",
+            "predicate": {
+                "custom_model_data": 1053
+            }
+        },
+        {
+            "model": "mineral/limestone",
+            "predicate": {
+                "custom_model_data": 1054
+            }
+        },
+        {
+            "model": "mineral/omni_geode",
+            "predicate": {
+                "custom_model_data": 1055
+            }
+        },
+        {
+            "model": "mineral/granite",
+            "predicate": {
+                "custom_model_data": 1056
+            }
+        },
+        {
+            "model": "mineral/lemon_stone",
+            "predicate": {
+                "custom_model_data": 1057
+            }
+        },
+        {
+            "model": "fish/periwinkle",
+            "predicate": {
+                "custom_model_data": 2001
+            }
+        },
+        {
+            "model": "fish/carp",
+            "predicate": {
+                "custom_model_data": 2002
+            }
+        },
+        {
+            "model": "fish/ghostfish",
+            "predicate": {
+                "custom_model_data": 2003
+            }
+        },
+        {
+            "model": "fish/pike",
+            "predicate": {
+                "custom_model_data": 2004
+            }
+        },
+        {
+            "model": "fish/ice_pip",
+            "predicate": {
+                "custom_model_data": 2005
+            }
+        },
+        {
+            "model": "fish/salmon",
+            "predicate": {
+                "custom_model_data": 2006
+            }
+        },
+        {
+            "model": "fish/blue_discus",
+            "predicate": {
+                "custom_model_data": 2007
+            }
+        },
+        {
+            "model": "fish/clam",
+            "predicate": {
+                "custom_model_data": 2008
+            }
+        },
+        {
+            "model": "fish/legend",
+            "predicate": {
+                "custom_model_data": 2009
+            }
+        },
+        {
+            "model": "fish/red_snapper",
+            "predicate": {
+                "custom_model_data": 2010
+            }
+        },
+        {
+            "model": "fish/oyster",
+            "predicate": {
+                "custom_model_data": 2011
+            }
+        },
+        {
+            "model": "fish/rainbow_trout",
+            "predicate": {
+                "custom_model_data": 2012
+            }
+        },
+        {
+            "model": "fish/crimsonfish",
+            "predicate": {
+                "custom_model_data": 2013
+            }
+        },
+        {
+            "model": "fish/midnight_squid",
+            "predicate": {
+                "custom_model_data": 2014
+            }
+        },
+        {
+            "model": "fish/octopus",
+            "predicate": {
+                "custom_model_data": 2015
+            }
+        },
+        {
+            "model": "fish/squid",
+            "predicate": {
+                "custom_model_data": 2016
+            }
+        },
+        {
+            "model": "fish/woodskip",
+            "predicate": {
+                "custom_model_data": 2017
+            }
+        },
+        {
+            "model": "fish/shrimp",
+            "predicate": {
+                "custom_model_data": 2018
+            }
+        },
+        {
+            "model": "fish/bullhead",
+            "predicate": {
+                "custom_model_data": 2019
+            }
+        },
+        {
+            "model": "fish/lobster",
+            "predicate": {
+                "custom_model_data": 2020
+            }
+        },
+        {
+            "model": "fish/anchovy",
+            "predicate": {
+                "custom_model_data": 2021
+            }
+        },
+        {
+            "model": "fish/flounder",
+            "predicate": {
+                "custom_model_data": 2022
+            }
+        },
+        {
+            "model": "fish/lava_eel",
+            "predicate": {
+                "custom_model_data": 2023
+            }
+        },
+        {
+            "model": "fish/glacierfish_jr.",
+            "predicate": {
+                "custom_model_data": 2024
+            }
+        },
+        {
+            "model": "fish/smallmouth_bass",
+            "predicate": {
+                "custom_model_data": 2025
+            }
+        },
+        {
+            "model": "fish/void_salmon",
+            "predicate": {
+                "custom_model_data": 2026
+            }
+        },
+        {
+            "model": "fish/walleye",
+            "predicate": {
+                "custom_model_data": 2027
+            }
+        },
+        {
+            "model": "fish/lingcod",
+            "predicate": {
+                "custom_model_data": 2028
+            }
+        },
+        {
+            "model": "fish/legend_ii",
+            "predicate": {
+                "custom_model_data": 2029
+            }
+        },
+        {
+            "model": "fish/blobfish",
+            "predicate": {
+                "custom_model_data": 2030
+            }
+        },
+        {
+            "model": "fish/stingray",
+            "predicate": {
+                "custom_model_data": 2031
+            }
+        },
+        {
+            "model": "fish/tiger_trout",
+            "predicate": {
+                "custom_model_data": 2032
+            }
+        },
+        {
+            "model": "fish/scorpion_carp",
+            "predicate": {
+                "custom_model_data": 2033
+            }
+        },
+        {
+            "model": "fish/mutant_carp",
+            "predicate": {
+                "custom_model_data": 2034
+            }
+        },
+        {
+            "model": "fish/sandfish",
+            "predicate": {
+                "custom_model_data": 2035
+            }
+        },
+        {
+            "model": "fish/ms._angler",
+            "predicate": {
+                "custom_model_data": 2036
+            }
+        },
+        {
+            "model": "fish/tuna",
+            "predicate": {
+                "custom_model_data": 2037
+            }
+        },
+        {
+            "model": "fish/sunfish",
+            "predicate": {
+                "custom_model_data": 2038
+            }
+        },
+        {
+            "model": "fish/lionfish",
+            "predicate": {
+                "custom_model_data": 2039
+            }
+        },
+        {
+            "model": "fish/pufferfish",
+            "predicate": {
+                "custom_model_data": 2040
+            }
+        },
+        {
+            "model": "fish/halibut",
+            "predicate": {
+                "custom_model_data": 2041
+            }
+        },
+        {
+            "model": "fish/shad",
+            "predicate": {
+                "custom_model_data": 2042
+            }
+        },
+        {
+            "model": "fish/albacore",
+            "predicate": {
+                "custom_model_data": 2043
+            }
+        },
+        {
+            "model": "fish/glacierfish",
+            "predicate": {
+                "custom_model_data": 2044
+            }
+        },
+        {
+            "model": "fish/sea_cucumber",
+            "predicate": {
+                "custom_model_data": 2045
+            }
+        },
+        {
+            "model": "fish/crayfish",
+            "predicate": {
+                "custom_model_data": 2046
+            }
+        },
+        {
+            "model": "fish/crab",
+            "predicate": {
+                "custom_model_data": 2047
+            }
+        },
+        {
+            "model": "fish/stonefish",
+            "predicate": {
+                "custom_model_data": 2048
+            }
+        },
+        {
+            "model": "fish/son_of_crimsonfish",
+            "predicate": {
+                "custom_model_data": 2049
+            }
+        },
+        {
+            "model": "fish/eel",
+            "predicate": {
+                "custom_model_data": 2050
+            }
+        },
+        {
+            "model": "fish/sturgeon",
+            "predicate": {
+                "custom_model_data": 2051
+            }
+        },
+        {
+            "model": "fish/herring",
+            "predicate": {
+                "custom_model_data": 2052
+            }
+        },
+        {
+            "model": "fish/perch",
+            "predicate": {
+                "custom_model_data": 2053
+            }
+        },
+        {
+            "model": "fish/mussel",
+            "predicate": {
+                "custom_model_data": 2054
+            }
+        },
+        {
+            "model": "fish/super_cucumber",
+            "predicate": {
+                "custom_model_data": 2055
+            }
+        },
+        {
+            "model": "fish/seaweed",
+            "predicate": {
+                "custom_model_data": 2056
+            }
+        },
+        {
+            "model": "fish/angler",
+            "predicate": {
+                "custom_model_data": 2057
+            }
+        },
+        {
+            "model": "fish/chub",
+            "predicate": {
+                "custom_model_data": 2058
+            }
+        },
+        {
+            "model": "fish/radioactive_carp",
+            "predicate": {
+                "custom_model_data": 2059
+            }
+        },
+        {
+            "model": "fish/white_algae",
+            "predicate": {
+                "custom_model_data": 2060
+            }
+        },
+        {
+            "model": "fish/largemouth_bass",
+            "predicate": {
+                "custom_model_data": 2061
+            }
+        },
+        {
+            "model": "fish/sardine",
+            "predicate": {
+                "custom_model_data": 2062
+            }
+        },
+        {
+            "model": "fish/dorado",
+            "predicate": {
+                "custom_model_data": 2063
+            }
+        },
+        {
+            "model": "fish/tilapia",
+            "predicate": {
+                "custom_model_data": 2064
+            }
+        },
+        {
+            "model": "fish/bream",
+            "predicate": {
+                "custom_model_data": 2065
+            }
+        },
+        {
+            "model": "fish/midnight_carp",
+            "predicate": {
+                "custom_model_data": 2066
+            }
+        },
+        {
+            "model": "fish/slimejack",
+            "predicate": {
+                "custom_model_data": 2067
+            }
+        },
+        {
+            "model": "fish/cockle",
+            "predicate": {
+                "custom_model_data": 2068
+            }
+        },
+        {
+            "model": "fish/red_mullet",
+            "predicate": {
+                "custom_model_data": 2069
+            }
+        },
+        {
+            "model": "fish/snail",
+            "predicate": {
+                "custom_model_data": 2070
+            }
+        },
+        {
+            "model": "npc/sebastian",
+            "predicate": {
+                "custom_model_data": 3001
+            }
+        },
+        {
+            "model": "npc/george",
+            "predicate": {
+                "custom_model_data": 3002
+            }
+        },
+        {
+            "model": "npc/robin",
+            "predicate": {
+                "custom_model_data": 3003
+            }
+        },
+        {
+            "model": "npc/shane",
+            "predicate": {
+                "custom_model_data": 3004
+            }
+        },
+        {
+            "model": "npc/dwarf",
+            "predicate": {
+                "custom_model_data": 3005
+            }
+        },
+        {
+            "model": "npc/jodi",
+            "predicate": {
+                "custom_model_data": 3006
+            }
+        },
+        {
+            "model": "npc/maru",
+            "predicate": {
+                "custom_model_data": 3007
+            }
+        },
+        {
+            "model": "npc/lewis",
+            "predicate": {
+                "custom_model_data": 3008
+            }
+        },
+        {
+            "model": "npc/mr._qi",
+            "predicate": {
+                "custom_model_data": 3009
+            }
+        },
+        {
+            "model": "npc/pierre",
+            "predicate": {
+                "custom_model_data": 3010
+            }
+        },
+        {
+            "model": "npc/leah",
+            "predicate": {
+                "custom_model_data": 3011
+            }
+        },
+        {
+            "model": "npc/professor_snail",
+            "predicate": {
+                "custom_model_data": 3012
+            }
+        },
+        {
+            "model": "npc/wizard",
+            "predicate": {
+                "custom_model_data": 3013
+            }
+        },
+        {
+            "model": "npc/leo",
+            "predicate": {
+                "custom_model_data": 3014
+            }
+        },
+        {
+            "model": "npc/elliott",
+            "predicate": {
+                "custom_model_data": 3015
+            }
+        },
+        {
+            "model": "npc/governor",
+            "predicate": {
+                "custom_model_data": 3016
+            }
+        },
+        {
+            "model": "npc/abigail",
+            "predicate": {
+                "custom_model_data": 3017
+            }
+        },
+        {
+            "model": "npc/clint",
+            "predicate": {
+                "custom_model_data": 3018
+            }
+        },
+        {
+            "model": "npc/haley",
+            "predicate": {
+                "custom_model_data": 3019
+            }
+        },
+        {
+            "model": "npc/emily",
+            "predicate": {
+                "custom_model_data": 3020
+            }
+        },
+        {
+            "model": "npc/morris",
+            "predicate": {
+                "custom_model_data": 3021
+            }
+        },
+        {
+            "model": "npc/evelyn",
+            "predicate": {
+                "custom_model_data": 3022
+            }
+        },
+        {
+            "model": "npc/alex",
+            "predicate": {
+                "custom_model_data": 3023
+            }
+        },
+        {
+            "model": "npc/marnie",
+            "predicate": {
+                "custom_model_data": 3024
+            }
+        },
+        {
+            "model": "npc/simbook",
+            "predicate": {
+                "custom_model_data": 3025
+            }
+        },
+        {
+            "model": "npc/vincent",
+            "predicate": {
+                "custom_model_data": 3026
+            }
+        },
+        {
+            "model": "npc/caroline",
+            "predicate": {
+                "custom_model_data": 3027
+            }
+        },
+        {
+            "model": "npc/penny",
+            "predicate": {
+                "custom_model_data": 3028
+            }
+        },
+        {
+            "model": "npc/birdie",
+            "predicate": {
+                "custom_model_data": 3029
+            }
+        },
+        {
+            "model": "npc/gus",
+            "predicate": {
+                "custom_model_data": 3030
+            }
+        },
+        {
+            "model": "npc/linus",
+            "predicate": {
+                "custom_model_data": 3031
+            }
+        },
+        {
+            "model": "npc/pam",
+            "predicate": {
+                "custom_model_data": 3032
+            }
+        },
+        {
+            "model": "npc/gil",
+            "predicate": {
+                "custom_model_data": 3033
+            }
+        },
+        {
+            "model": "npc/kent",
+            "predicate": {
+                "custom_model_data": 3034
+            }
+        },
+        {
+            "model": "npc/demetrius",
+            "predicate": {
+                "custom_model_data": 3035
+            }
+        },
+        {
+            "model": "npc/sandy",
+            "predicate": {
+                "custom_model_data": 3036
+            }
+        },
+        {
+            "model": "npc/gunther",
+            "predicate": {
+                "custom_model_data": 3037
+            }
+        },
+        {
+            "model": "npc/harvey",
+            "predicate": {
+                "custom_model_data": 3038
+            }
+        },
+        {
+            "model": "npc/bouncer",
+            "predicate": {
+                "custom_model_data": 3039
+            }
+        },
+        {
+            "model": "npc/willy",
+            "predicate": {
+                "custom_model_data": 3040
+            }
+        },
+        {
+            "model": "npc/sam",
+            "predicate": {
+                "custom_model_data": 3041
+            }
+        },
+        {
+            "model": "npc/krobus",
+            "predicate": {
+                "custom_model_data": 3042
+            }
+        },
+        {
+            "model": "npc/grandpa",
+            "predicate": {
+                "custom_model_data": 3043
+            }
+        },
+        {
+            "model": "seed/coffee_bean",
+            "predicate": {
+                "custom_model_data": 4001
+            }
+        },
+        {
+            "model": "seed/grape_starter",
+            "predicate": {
+                "custom_model_data": 4002
+            }
+        },
+        {
+            "model": "seed/cranberry_seeds",
+            "predicate": {
+                "custom_model_data": 4003
+            }
+        },
+        {
+            "model": "seed/tulip_bulb",
+            "predicate": {
+                "custom_model_data": 4004
+            }
+        },
+        {
+            "model": "seed/bok_choy_seeds",
+            "predicate": {
+                "custom_model_data": 4005
+            }
+        },
+        {
+            "model": "seed/rice_shoot",
+            "predicate": {
+                "custom_model_data": 4006
+            }
+        },
+        {
+            "model": "seed/wheat_seeds",
+            "predicate": {
+                "custom_model_data": 4007
+            }
+        },
+        {
+            "model": "seed/blueberry_seeds",
+            "predicate": {
+                "custom_model_data": 4008
+            }
+        },
+        {
+            "model": "seed/blue_jazz_seeds",
+            "predicate": {
+                "custom_model_data": 4009
+            }
+        },
+        {
+            "model": "seed/poppy_seeds",
+            "predicate": {
+                "custom_model_data": 4010
+            }
+        },
+        {
+            "model": "seed/strawberry_seeds",
+            "predicate": {
+                "custom_model_data": 4011
+            }
+        },
+        {
+            "model": "seed/yam_seeds",
+            "predicate": {
+                "custom_model_data": 4012
+            }
+        },
+        {
+            "model": "seed/garlic_seeds",
+            "predicate": {
+                "custom_model_data": 4013
+            }
+        },
+        {
+            "model": "seed/rare_seed",
+            "predicate": {
+                "custom_model_data": 4014
+            }
+        },
+        {
+            "model": "seed/hotpepper_seeds",
+            "predicate": {
+                "custom_model_data": 4015
+            }
+        },
+        {
+            "model": "seed/pumpkin_seeds",
+            "predicate": {
+                "custom_model_data": 4016
+            }
+        },
+        {
+            "model": "seed/red_cabbage_seeds",
+            "predicate": {
+                "custom_model_data": 4017
+            }
+        },
+        {
+            "model": "seed/radish_seeds",
+            "predicate": {
+                "custom_model_data": 4018
+            }
+        },
+        {
+            "model": "seed/potato_seeds",
+            "predicate": {
+                "custom_model_data": 4019
+            }
+        },
+        {
+            "model": "seed/corn_seeds",
+            "predicate": {
+                "custom_model_data": 4020
+            }
+        },
+        {
+            "model": "seed/ancient_seeds",
+            "predicate": {
+                "custom_model_data": 4021
+            }
+        },
+        {
+            "model": "seed/cauliflower_seeds",
+            "predicate": {
+                "custom_model_data": 4022
+            }
+        },
+        {
+            "model": "seed/starfruit_seeds",
+            "predicate": {
+                "custom_model_data": 4023
+            }
+        },
+        {
+            "model": "seed/rhubarb_seeds",
+            "predicate": {
+                "custom_model_data": 4024
+            }
+        },
+        {
+            "model": "seed/fairy_seeds",
+            "predicate": {
+                "custom_model_data": 4025
+            }
+        },
+        {
+            "model": "seed/tomato_seeds",
+            "predicate": {
+                "custom_model_data": 4026
+            }
+        },
+        {
+            "model": "seed/sunflower_seeds",
+            "predicate": {
+                "custom_model_data": 4027
+            }
+        },
+        {
+            "model": "seed/amaranth_seeds",
+            "predicate": {
+                "custom_model_data": 4028
+            }
+        },
+        {
+            "model": "seed/cactus_seeds",
+            "predicate": {
+                "custom_model_data": 4029
+            }
+        },
+        {
+            "model": "seed/tea_sapling",
+            "predicate": {
+                "custom_model_data": 4030
+            }
+        },
+        {
+            "model": "seed/melon_seeds",
+            "predicate": {
+                "custom_model_data": 4031
+            }
+        },
+        {
+            "model": "seed/artichoke_seeds",
+            "predicate": {
+                "custom_model_data": 4032
+            }
+        },
+        {
+            "model": "seed/parsnip_seeds",
+            "predicate": {
+                "custom_model_data": 4033
+            }
+        },
+        {
+            "model": "seed/eggplant_seeds",
+            "predicate": {
+                "custom_model_data": 4034
+            }
+        },
+        {
+            "model": "seed/green_bean_starter",
+            "predicate": {
+                "custom_model_data": 4035
+            }
+        },
+        {
+            "model": "seed/beet_seeds",
+            "predicate": {
+                "custom_model_data": 4036
+            }
+        },
+        {
+            "model": "seed/spangle_seeds",
+            "predicate": {
+                "custom_model_data": 4037
+            }
+        },
+        {
+            "model": "seed/kale_seeds",
+            "predicate": {
+                "custom_model_data": 4038
+            }
+        },
+        {
+            "model": "seed/hops_starter",
+            "predicate": {
+                "custom_model_data": 4039
+            }
+        },
+        {
+            "model": "crop/red_cabbage",
+            "predicate": {
+                "custom_model_data": 5001
+            }
+        },
+        {
+            "model": "crop/sunflower",
+            "predicate": {
+                "custom_model_data": 5002
+            }
+        },
+        {
+            "model": "crop/green_bean",
+            "predicate": {
+                "custom_model_data": 5003
+            }
+        },
+        {
+            "model": "crop/kale",
+            "predicate": {
+                "custom_model_data": 5004
+            }
+        },
+        {
+            "model": "crop/coffee_bean",
+            "predicate": {
+                "custom_model_data": 5005
+            }
+        },
+        {
+            "model": "crop/cauliflower",
+            "predicate": {
+                "custom_model_data": 5006
+            }
+        },
+        {
+            "model": "crop/amaranth",
+            "predicate": {
+                "custom_model_data": 5007
+            }
+        },
+        {
+            "model": "crop/yam",
+            "predicate": {
+                "custom_model_data": 5008
+            }
+        },
+        {
+            "model": "crop/potato",
+            "predicate": {
+                "custom_model_data": 5009
+            }
+        },
+        {
+            "model": "crop/corn",
+            "predicate": {
+                "custom_model_data": 5010
+            }
+        },
+        {
+            "model": "crop/summer_spangle",
+            "predicate": {
+                "custom_model_data": 5011
+            }
+        },
+        {
+            "model": "crop/wheat",
+            "predicate": {
+                "custom_model_data": 5012
+            }
+        },
+        {
+            "model": "crop/beet",
+            "predicate": {
+                "custom_model_data": 5013
+            }
+        },
+        {
+            "model": "crop/blueberry",
+            "predicate": {
+                "custom_model_data": 5014
+            }
+        },
+        {
+            "model": "crop/artichoke",
+            "predicate": {
+                "custom_model_data": 5015
+            }
+        },
+        {
+            "model": "crop/tomato",
+            "predicate": {
+                "custom_model_data": 5016
+            }
+        },
+        {
+            "model": "crop/grape",
+            "predicate": {
+                "custom_model_data": 5017
+            }
+        },
+        {
+            "model": "crop/blue_jazz",
+            "predicate": {
+                "custom_model_data": 5018
+            }
+        },
+        {
+            "model": "crop/parsnip",
+            "predicate": {
+                "custom_model_data": 5019
+            }
+        },
+        {
+            "model": "crop/starfruit",
+            "predicate": {
+                "custom_model_data": 5020
+            }
+        },
+        {
+            "model": "crop/bok_choy",
+            "predicate": {
+                "custom_model_data": 5021
+            }
+        },
+        {
+            "model": "crop/rhubarb",
+            "predicate": {
+                "custom_model_data": 5022
+            }
+        },
+        {
+            "model": "crop/ancient_fruit",
+            "predicate": {
+                "custom_model_data": 5023
+            }
+        },
+        {
+            "model": "crop/garlic",
+            "predicate": {
+                "custom_model_data": 5024
+            }
+        },
+        {
+            "model": "crop/melon",
+            "predicate": {
+                "custom_model_data": 5025
+            }
+        },
+        {
+            "model": "crop/cranberries",
+            "predicate": {
+                "custom_model_data": 5026
+            }
+        },
+        {
+            "model": "crop/tulip",
+            "predicate": {
+                "custom_model_data": 5027
+            }
+        },
+        {
+            "model": "crop/fairy_rose",
+            "predicate": {
+                "custom_model_data": 5028
+            }
+        },
+        {
+            "model": "crop/eggplant",
+            "predicate": {
+                "custom_model_data": 5029
+            }
+        },
+        {
+            "model": "crop/unmilled_rice",
+            "predicate": {
+                "custom_model_data": 5030
+            }
+        },
+        {
+            "model": "crop/sweet_gem_berry",
+            "predicate": {
+                "custom_model_data": 5031
+            }
+        },
+        {
+            "model": "crop/hot_pepper",
+            "predicate": {
+                "custom_model_data": 5032
+            }
+        },
+        {
+            "model": "crop/strawberry",
+            "predicate": {
+                "custom_model_data": 5033
+            }
+        },
+        {
+            "model": "crop/pumpkin",
+            "predicate": {
+                "custom_model_data": 5034
+            }
+        },
+        {
+            "model": "crop/cactus_fruit",
+            "predicate": {
+                "custom_model_data": 5035
+            }
+        },
+        {
+            "model": "crop/poppy",
+            "predicate": {
+                "custom_model_data": 5036
+            }
+        },
+        {
+            "model": "crop/radish",
+            "predicate": {
+                "custom_model_data": 5037
+            }
+        },
+        {
+            "model": "crop/hops",
+            "predicate": {
+                "custom_model_data": 5038
+            }
+        },
+        {
+            "model": "crop/tea_leaves",
+            "predicate": {
+                "custom_model_data": 5039
+            }
+        }
+    ],
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/emerald"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "credit": "Made with Blockbench",
+    "textures": {
+        "0": "menu/menu_829"
+    },
+    "elements": [
+        {
+            "from": [-16, 0, -16],
+            "to": [28, 0, 19],
+            "faces": {
+                "north": {"uv": [0, 0, 16, 1], "texture": "#0"},
+                "east": {"uv": [0, 0, 12, 1], "texture": "#0"},
+                "south": {"uv": [0, 0, 16, 1], "texture": "#0"},
+                "west": {"uv": [0, 0, 12, 1], "texture": "#0"},
+                "up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+                "down": {"uv": [0, 0, 16, 12], "texture": "#0"}
+            }
+        }
+    ],
+    "gui_light": "front",
+    "display": {
+        "gui": {
+            "rotation": [90, 0, 0],
+            "translation": [-63, 35, 1],
+            "scale": [4, 1, 4]
+        }
+    }
+}
